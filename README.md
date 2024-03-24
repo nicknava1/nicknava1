@@ -10,6 +10,9 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Cybersecurity</b>
+
   - [Comptia Security+](https://github.com/nicknava1/Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+    
   - [Google Cybersecurity Professional](https://github.com/nicknava1/Certifications/blob/main/Google%20Cybersecurity%20Professional.pdf)
+    
   - [NIST Risk Management Framework](https://github.com/nicknava1/Certifications/blob/main/NIST%20RMF.pdf)
