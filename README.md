@@ -9,9 +9,9 @@
 
 - <b>Security Information and Event Management</b>
 
-  - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/honeypot)
+  - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
  
-  - [Threat Mapping using Powerscript and Geolocation](https://github.com/nicknava1/sochoneynet)
+  - [Threat Mapping using Powerscript and Geolocation](https://github.com/nicknava1/Soc-Honeypot)
     
 <h2>📜 Certifications:</h2>
 
