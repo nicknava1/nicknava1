@@ -3,6 +3,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Assessment and Testing</b>
+
+  - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/burpsuite)
+
 - <b>Security Information and Event Management</b>
 
   - [Creating an SOC and Honeynet in Microsoft Azure](https://github.com/nicknava1/sochoneynet)
