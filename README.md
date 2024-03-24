@@ -5,7 +5,7 @@
 
 - <b>Security Assessment and Testing</b>
 
-  - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/burpsuite)
+  - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
 
 - <b>Security Information and Event Management</b>
 
