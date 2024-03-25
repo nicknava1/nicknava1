@@ -3,15 +3,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Assessment and Testing</b>
-
-  - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
-
 - <b>Security Information and Event Management</b>
 
   - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
  
-  - [Threat Mapping using Powerscript and Geolocation](https://github.com/nicknava1/Threatmapping)
+- <b>Security Assessment and Testing</b>
+
+  - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
     
 <h2>📜 Certifications:</h2>
 
