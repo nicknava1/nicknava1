@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick! 
+<h1>Nicholas Nava
   <br/><a href="https://www.linkedin.com/in/nk-nava">Cybersecurity Analyst</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
