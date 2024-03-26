@@ -7,6 +7,8 @@
 
   - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
  
+  - [Geospatial Threat Analysis with Microsoft Sentinel](https://github.com/nicknava1/Threatmapping)
+ 
 - <b>Security Assessment and Testing</b>
 
   - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
