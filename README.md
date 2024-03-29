@@ -12,6 +12,8 @@
  
 - <b>Security Assessment and Testing</b>
 
+  - [Verifying Data Integrity Using SHA256 Checksums](https://github.com/nicknava1/Hash-Integrity)
+  
   - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
     
 <h2>📜 Certifications:</h2>
