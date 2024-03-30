@@ -2,17 +2,19 @@
   <br/>
   <a href="https://www.linkedin.com/in/nk-nava">IT Specialist</a>, Network Administrator, and Cybersecurity Analyst
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Tech Projects:</h2>
 
-- <b>Security Information and Event Management</b>
+- <b>Network Administration</b>
+
+  - [Building an Active Directory Domain Server in Virtual Box]((https://github.com/nicknava1/AD-DS)
+
+- <b>Cybersecurity and Information Assurance</b>
 
   - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
  
   - [Geospatial Threat Analysis with Microsoft Sentinel](https://github.com/nicknava1/Threatmapping)
- 
-- <b>Security Assessment and Testing</b>
 
-  - [Verifying Data Integrity Using SHA256 Checksums](https://github.com/nicknava1/Hash-Integrity)
+  - [Verifying Data Integrity Using Hash Checksums](https://github.com/nicknava1/Hash-Integrity)
   
   - [Auditing Web Application Security using Burp Suite](https://github.com/nicknava1/Burp-Suite)
     
