@@ -1,6 +1,6 @@
 <h1>Nicholas Nava
   <br/>
-  <a href="https://www.linkedin.com/in/nk-nava">Cybersecurity Analyst</a> and Technology Professional
+  <a href="https://www.linkedin.com/in/nk-nava">IT Specialist</a>, Network Administrator, and Cybersecurity Analyst
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
