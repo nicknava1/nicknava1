@@ -6,7 +6,7 @@
 
 - <b>Network Administration</b>
 
-  - [Building an Active Directory Domain Server in Virtual Box]((https://github.com/nicknava1/AD-DS)
+  - [Building an Active Directory Domain Server in Virtual Box](https://github.com/nicknava1/AD-DS)
 
 - <b>Cybersecurity and Information Assurance</b>
 
