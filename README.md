@@ -11,8 +11,6 @@
 - <b>Cybersecurity and Information Assurance</b>
 
   - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
- 
-  - [Geospatial Threat Analysis with Microsoft Sentinel](https://github.com/nicknava1/Threatmapping)
 
   - [Verifying Data Integrity Using Hash Checksums](https://github.com/nicknava1/Hash-Integrity)
   
