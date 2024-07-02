@@ -4,13 +4,13 @@
 
 <h2>👨‍💻 Tech Projects:</h2>
 
-- <b>Network Administration</b>
+- <b>Cybersecurity and Network Administration</b>
 
-  - [Building an Active Directory Domain Server in VirtualBox](https://github.com/nicknava1/AD-DS)
+  - [Gathering Digital Forensics using SQL](https://github.com/nicknava1/SQL)
 
-- <b>Cybersecurity and Information Assurance</b>
+  - [Building an Active Directory Domain Server](https://github.com/nicknava1/AD-DS)
 
-  - [Creating an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
+  - [Deploying an SOC and Honeypot in Microsoft Azure](https://github.com/nicknava1/Soc-Honeypot)
 
   - [Verifying Data Integrity Using Hash Checksums](https://github.com/nicknava1/Hash-Integrity)
   
